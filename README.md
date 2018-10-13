@@ -1,2 +1,5 @@
 # hello-world
-the time-honored tradition
+
+who am i?
+
+hi! i'm sammy and i like to eat, sleep, and laugh! 
